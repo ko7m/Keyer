@@ -1,0 +1,6 @@
+Parallax Propeller Iambic Keyer or Transmitter
+
+Can be used to key a commercial transmitter or as a transmitter itself.
+
+Set the Frequency constant to zero to use as keyer or to the transmit
+frequency to use as a transmitter.
